@@ -1,0 +1,3 @@
+remote_theme: poole/hyde@2.1.0
+plugins:
+- jekyll-include-cache
