@@ -4,10 +4,13 @@ plugins:
 minimal_mistakes_skin : "dirt"
 layout: "single"
 
+include: ["_data"]
+include: ["_pages"]
+
 # Site Settings
 locale: "en-US"
 title: "Computational Biology in Western Montana"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.jpg"
 name: "Genevieve Krause"
 description: "A personal academic website"
 url: "https://GenevieveKrause.github.io"
