@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /research/
 ---
 <html lang="en-US">
 <head>
