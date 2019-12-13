@@ -5,8 +5,8 @@ permalink: /cv/
 <head>
 <title>Genevieve Krause's CV</title>
 <style>
-h3{ margin: 50px; font-family: Courier New; font-size: 125%}
-p{  margin: 50px; font-family: Courier New; font-size: 125%}
+h3{ font-family: Courier New; font-size: 125%}
+p{  font-family: Courier New; font-size: 125%}
 </style>
 </head>
 <body>
